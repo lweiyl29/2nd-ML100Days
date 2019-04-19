@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 data/application_test.csv
 data/application_train.csv
@@ -16,3 +17,9 @@ data/installments_payments.csv
 data/POS_CASH_balance.csv
 data/previous_application.csv
 data/sample_submission.csv
+=======
+#############
+## 2nd-ML100Days
+#############
+data/
+>>>>>>> cddb0d898672751e4137abd65cb0033c9c01d519
